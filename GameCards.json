@@ -21,6 +21,7 @@
   "fom-2": {
     "id": "fom-2",
     "evolutionName": "Toby"
+    "evolvesFrom": "Puppy"
     "face": {
       "front": {
         "name": "Toby FOM 2",
@@ -40,6 +41,7 @@
   "fom-3": {
     "id": "fom-3",
     "evolutionName": "Tobinator"
+    "evolvesFrom": "Toby"
     "face": {
       "front": {
         "name": "Tobinator FOM 3",
@@ -150,6 +152,7 @@
   "fom-9": {
     "id": "fom-9",
     "evolutionName": "Deck Box"
+    "evolvesFrom": "Loose Card"
     "face": {
       "front": {
         "name": "Deck Box FOM 9",
@@ -169,6 +172,7 @@
   "fom-10": {
     "id": "fom-10",
     "evolutionName": "Master Set"
+    "evolvesFrom": "Deck Box"
     "face": {
       "front": {
         "name": "Master Set FOM 10",
