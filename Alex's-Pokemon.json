@@ -10,7 +10,7 @@
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/5.jpg",
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/6.jpg"
     ],
-    "decksUrl": "https://github.com/atothezdog/Forge-of-Mementos/blob/main/Decks.json"
+    "decksUrl": "https://raw.githubusercontent.com/atothezdog/Forge-of-Mementos/refs/heads/main/Decks.json"
   },
   "customHelp": "Click your deck and hold to drag and drop the top card to add it to your prizes.",
   "cardRotation": 90,
