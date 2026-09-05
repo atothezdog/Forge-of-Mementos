@@ -3,14 +3,14 @@
     "id": "fom",
     "name": "Forge of Mementos",
     "series": "Anniversary Pokemon",
-    "printedTotal": 13,
-    "total": 13,
+    "printedTotal": 15,
+    "total": 15,
     "legalities": {
       "unlimited": "Legal"
     },
     "ptcgoCode": "FOM",
     "releaseDate": "2026/10/31",
-    "updatedAt": "2026/09/05 15:12:00",
+    "updatedAt": "2026/09/05 00:00:01",
     "images": {
       "symbol": "https://i.imgur.com/TrwydhJ.png",
       "logo": "https://i.imgur.com/BmSAJau.png"
