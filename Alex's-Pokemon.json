@@ -286,7 +286,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
-          }
+          },
           "Evolution": {
             "type": "custom",
             "defaultValue": {
