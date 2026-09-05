@@ -35,7 +35,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "If you have no Basic Pokemon in hand, you can draw a new hand. Your opponent draw a card for each extra time you drew a new hand compared to him.",
+        "info": "If you lack a basic pokemon in your starting hand, you must redraw your hand. Your opponent may choose to draw a card for free for each time you must redraw.",
         "startingHandSize": 7,
         "mulliganCycle": {
           "selectionRange": {
