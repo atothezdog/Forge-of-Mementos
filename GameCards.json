@@ -22,14 +22,14 @@
     "face": {
       "front": {
         "name": "Toby FOM 2",
-        "type": "Pokemon",
+        "type": "Pokemon - Stage 1",
         "cost": 0,
         "image": "https://i.imgur.com/B5pPQeM.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Toby FOM 2",
-    "type": "Pokemon",
+    "type": "Pokemon - Stage 1",
     "cost": 0,
     "rarity": "Uncommon",
     "Retreat cost": 2,
@@ -40,14 +40,14 @@
     "face": {
       "front": {
         "name": "Tobinator FOM 3",
-        "type": "Pokemon",
+        "type": "Pokemon - Stage 2",
         "cost": 0,
         "image": "https://i.imgur.com/klULjUq.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Tobinator FOM 3",
-    "type": "Pokemon",
+    "type": "Pokemon - Stage 2",
     "cost": 0,
     "rarity": "Rare",
     "Retreat cost": 3,
@@ -58,14 +58,14 @@
     "face": {
       "front": {
         "name": "Surprised Pikachu FOM 4",
-        "type": "Pokemon",
+        "type": "Pokemon - Basic",
         "cost": 0,
         "image": "https://i.imgur.com/YtSLRGm.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Surprised Pikachu FOM 4",
-    "type": "Pokemon",
+    "type": "Pokemon - Basic",
     "cost": 0,
     "rarity": "Common",
     "Retreat cost": 1,
@@ -130,14 +130,14 @@
     "face": {
       "front": {
         "name": "Loose Card FOM 8",
-        "type": "Pokemon",
+        "type": "Pokemon - Basic",
         "cost": 0,
         "image": "https://i.imgur.com/FeSpyJh.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Loose Card FOM 8",
-    "type": "Pokemon",
+    "type": "Pokemon - Basic",
     "cost": 0,
     "rarity": "Common",
     "Retreat cost": 1,
@@ -148,14 +148,14 @@
     "face": {
       "front": {
         "name": "Deck Box FOM 9",
-        "type": "Pokemon",
+        "type": "Pokemon - Stage 1",
         "cost": 0,
         "image": "https://i.imgur.com/JHBiA11.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Deck Box FOM 9",
-    "type": "Pokemon",
+    "type": "Pokemon - Stage 1",
     "cost": 0,
     "rarity": "Uncommon",
     "Retreat cost": 2,
@@ -166,14 +166,14 @@
     "face": {
       "front": {
         "name": "Master Set FOM 10",
-        "type": "Pokemon",
+        "type": "Pokemon - Stage 2",
         "cost": 0,
         "image": "https://i.imgur.com/sM4I5Zo.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Master Set Fom 10",
-    "type": "Pokemon",
+    "type": "Pokemon - Stage 2",
     "cost": 0,
     "rarity": "Rare",
     "Retreat cost": 3,
