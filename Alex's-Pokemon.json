@@ -185,6 +185,8 @@
           "Trainer - Item": "Stack",
           "Trainer": "Stack",
           "Pokemon - Basic": "Bench",
+          "Pokemon - Stage 1": "GROUP",
+          "Pokemon - Stage 2": "GROUP",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
           "Trainer - Pokemon tool": "GROUP"
