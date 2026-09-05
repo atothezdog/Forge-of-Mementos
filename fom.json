@@ -10,6 +10,7 @@
     "types": [
       "Colorless"
     ],
+    "Stage": "Basic",
     "attacks": [
       {
         "name": "Play Fetch",
@@ -60,6 +61,7 @@
     "types": [
       "Colorless"
     ],
+    "Stage": "Stage 1",
     "evolvesFrom": "Puppy",
     "abilities": [
       {
@@ -120,6 +122,7 @@
     "types": [
       "Electric"
     ],
+    "Stage": "Stage 2"
     "evolvesFrom": "Toby",
     "attacks": [
       {
@@ -184,6 +187,7 @@
     "types": [
       "Electric"
     ],
+    "Stage": "Basic"
     "attacks": [
       {
         "name": "Fascination",
@@ -316,6 +320,7 @@
     "types": [
       "Colorless"
     ],
+    "Stage": "Basic"
     "attacks": [
       {
         "name": "Paper Cut",
@@ -375,6 +380,7 @@
     "types": [
       "Colorless"
     ],
+    "Stage": "Stage 1"
     "evolvesFrom": "Loose Card",
     "attacks": [
       {
@@ -438,6 +444,7 @@
     "types": [
       "Colorless"
     ],
+    "Stage": "Stage 2"
     "evolvesFrom": "Deck Box",
     "attacks": [
       {
