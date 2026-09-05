@@ -120,6 +120,7 @@
         "customSections": [
           "Bench",
           "Active",
+          "Evolution",
           "Stadium",
           "Prize_1",
           "Prize_2"
@@ -188,8 +189,6 @@
           "Trainer - Item": "Stack",
           "Trainer": "Stack",
           "Pokemon - Basic": "Bench",
-          "Pokemon - Stage 1": "GROUP",
-          "Pokemon - Stage 2": "GROUP",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
           "Trainer - Pokemon tool": "GROUP"
@@ -200,8 +199,6 @@
           "Trainer - Item": "Discard",
           "Trainer": "Discard",
           "Pokemon - Basic": "Bench",
-          "Pokemon - Stage 1": "GROUP",
-          "Pokemon - Stage 2": "GROUP",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
           "Trainer - Pokemon tool": "GROUP"
@@ -281,6 +278,34 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
+          }
+          "Evolution": {
+            "type": "custom",
+            "defaultValue": {
+              "options": []
+            },
+            "blueprint": {
+              "type": "div",
+              "children": [
+                {
+                  "type": "div",
+                  "children": "Evolution"
+                },
+                {
+                  "type": "loop",
+                  "iterable": "{{ game.data.Evolution.options }}",
+                  "template": {
+                    "type": "button",
+                    "children": "{{ item.evolutionName }} → {{ item.targetName }}",
+                    "onClick": "await evolve(item.evolutionId, item.targetId, item.targetZone)"
+                  }
+                }
+              ]
+            },
+            "events": {
+              "onStart": "refreshEvolutionOptions()",
+              "onCardsUpdate": "refreshEvolutionOptions()"
+            }
           }
         }
       }
