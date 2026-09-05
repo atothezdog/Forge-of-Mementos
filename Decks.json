@@ -9,82 +9,46 @@
     "Classic"
   ],
   "deckList": {
-    "categoriesOrder": [
-      "Pokemon",
-      "Trainer - Item",
-      "Trainer",
-      "Stadium",
-      "Energy"
-    ],
-    "Pokemon": [
-      {
-        "count": 2,
-        "id": "fom-1"
-      },
-      {
-        "count": 2,
-        "id": "fom-12"
-      },
-      {
-        "count": 4,
-        "id": "fom-2"
-      },
-      {
-        "count": 3,
-        "id": "fom-3"
-      },
-      {
-        "count": 4,
-        "id": "fom-4"
-      },
-      {
-        "count": 4,
-        "id": "fom-8"
-      },
-      {
-        "count": 3,
-        "id": "fom-9"
-      },
-      {
-        "count": 3,
-        "id": "fom-10"
-      }
-    ],
-    "Trainer - Item": [
-      {
-        "count": 3,
-        "id": "fom-5"
-      }
-    ],
-    "Trainer": [
-      {
-        "count": 4,
-        "id": "fom-6"
-      },
-      {
-        "count": 4,
-        "id": "fom-7"
-      }
-    ],
-    "Stadium": [
-      {
-        "count": 2,
-        "id": "fom-11"
-      },
-      {
-        "count": 2,
-        "id": "fom-13"
-      }
-    ],
-    "Energy": [
-      {
-        "count": 12,
-        "id": "fom-15"
-      },
-      {
-        "count": 8,
-        "id": "fom-14"
-      }
+  "categoriesOrder": [
+    "Pokemon",
+    "Trainer - Supporter",
+    "Trainer - Item",
+    "Trainer - Stadium",
+    "Energy"
+  ],
+  "Pokemon": [
+    ...
+  ],
+  "Trainer - Item": [
+    {
+      "count": 3,
+      "id": "fom-5"
+    }
+  ],
+  "Trainer - Supporter": [
+    {
+      "count": 4,
+      "id": "fom-6"
+    },
+    {
+      "count": 4,
+      "id": "fom-7"
+    }
+  ],
+  "Trainer - Stadium": [
+    {
+      "count": 2,
+      "id": "fom-11"
+    },
+    {
+      "count": 2,
+      "id": "fom-13"
+    }
+  ],
+  "Energy": [
+    ...
+  ]
+}
     ]
   }
 }
