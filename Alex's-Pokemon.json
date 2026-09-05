@@ -184,7 +184,7 @@
           "Trainer - Supporter": "Stack",
           "Trainer - Item": "Stack",
           "Trainer": "Stack",
-          "Pokemon": "Bench",
+          "Pokemon - Basic": "Bench",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
           "Trainer - Pokemon tool": "GROUP"
