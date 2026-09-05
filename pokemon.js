@@ -17,7 +17,7 @@ function getEvolutionOptions() {
 
       if (!targetData) continue;
 
-      if (targetData.name !== evolutionData.evolvesFrom) continue;
+      if (targetData.evolutionName !== evolutionData.evolvesFrom) continue;
 
       options.push({
         evolutionId: evolutionCard.id,
@@ -60,7 +60,7 @@ async function evolve(evolutionId, targetId, targetZone) {
     return;
   }
 
-  if (targetData?.name !== evolutionData.evolvesFrom) {
+  if (targetData?.evolutionName !== evolutionData.evolvesFrom) {
     return;
   }
 
