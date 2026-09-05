@@ -121,7 +121,7 @@
       "Electric"
     ],
     "evolvesFrom": "Toby",
-   "attacks": [
+    "attacks": [
       {
         "name": "Tempest Howl",
         "cost": [
@@ -131,7 +131,7 @@
         "convertedEnergyCost": 2,
         "damage": "40",
         "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.."
-      }
+      },
       {
         "name": "Prey Drive",
         "cost": [
@@ -193,7 +193,7 @@
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
-      }
+      },
       {
         "name": "Bright Idea",
         "cost": [
@@ -263,7 +263,7 @@
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
-        ],
+    ],
     "rules": [
       "Reveal cards from the top of your deck until you reveal a Pokémon. Put that Pokémon into your hand. Shuffle the other revealed cards into your deck."
     ],
@@ -287,7 +287,7 @@
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
-     ],
+    ],
     "rules": [
       "Search your deck for 2 cards and add them to your hand."
     ],
@@ -325,7 +325,7 @@
         "convertedEnergyCost": 1,
         "damage": "10",
         "text": ""
-      }
+      },
       {
         "name": "Lucky Pull",
         "cost": [
@@ -437,7 +437,7 @@
     "hp": "130",
     "types": [
       "Colorless"
-     ],
+    ],
     "evolvesFrom": "Deck Box",
     "attacks": [
       {
@@ -498,7 +498,7 @@
     "supertype": "Trainer",
     "subtypes": [
       "Stadium"
-     ],
+    ],
     "rules": [
       "When a Pokémon enters play, heal 20 damage."
     ],
@@ -531,12 +531,12 @@
       {
         "name": "Play Fetch",
         "cost": [
-          "Colorless",
+          "Colorless"
         ],
         "convertedEnergyCost": 1,
         "damage": "",
         "text": "Search your deck for a Basic Energy card, reveal it, and put it in your hand."
-      }
+      },
       {
         "name": "Tiny Zoomies",
         "cost": [
@@ -582,7 +582,7 @@
     "supertype": "Trainer",
     "subtypes": [
       "Stadium"
-     ],
+    ],
     "rules": [
       "When a Pokémon enters play, heal 20 damage."
     ],
@@ -599,38 +599,39 @@
       "small": "https://i.imgur.com/AxNQxXt.png",
       "large": "https://i.imgur.com/VUg8LWD.jpeg"
     },
-"fom-14": {
-  "id": "fom-14",
-  "face": {
-    "front": {
+    "fom-14": {
+      "id": "fom-14",
+      "face": {
+        "front": {
+          "name": "Basic Lightning Energy FOM 14",
+          "type": "Energy",
+          "cost": 0,
+          "image": "https://images.pokemontcg.io/sv1/257_hires.png",
+          "isHorizontal": false
+        }
+      },
       "name": "Basic Lightning Energy FOM 14",
       "type": "Energy",
       "cost": 0,
-      "image": "https://images.pokemontcg.io/sv1/257_hires.png",
-      "isHorizontal": false
-    }
-  },
-  "name": "Basic Lightning Energy FOM 14",
-  "type": "Energy",
-  "cost": 0,
-  "rarity": "Common",
-  "hp": 0
-  },
-"fom-14": {
-  "id": "fom-14",
-  "face": {
-    "front": {
+      "rarity": "Common",
+      "hp": 0
+    },
+    "fom-15": {
+      "id": "fom-15",
+      "face": {
+        "front": {
+          "name": "Basic Colorless Energy FOM 15",
+          "type": "Energy",
+          "cost": 0,
+          "image": "https://i.imgur.com/fpdOTHW.png",
+          "isHorizontal": false
+        }
+      },
       "name": "Basic Colorless Energy FOM 15",
       "type": "Energy",
       "cost": 0,
-      "image": "https://i.imgur.com/fpdOTHW.png",
-      "isHorizontal": false
+      "rarity": "Common",
+      "hp": 0
     }
-  },
-  "name": "Basic Colorless Energy FOM 15",
-  "type": "Energy",
-  "cost": 0,
-  "rarity": "Common",
-  "hp": 0
   }
 ]
