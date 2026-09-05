@@ -1,6 +1,7 @@
 {
   "fom-1": {
     "id": "fom-1",
+    "evolutionName": "Puppy"
     "face": {
       "front": {
         "name": "Puppy FOM 1",
@@ -19,6 +20,7 @@
   },
   "fom-2": {
     "id": "fom-2",
+    "evolutionName": "Toby"
     "face": {
       "front": {
         "name": "Toby FOM 2",
@@ -37,6 +39,7 @@
   },
   "fom-3": {
     "id": "fom-3",
+    "evolutionName": "Tobinator"
     "face": {
       "front": {
         "name": "Tobinator FOM 3",
@@ -127,6 +130,7 @@
   },
   "fom-8": {
     "id": "fom-8",
+    "evolutionName": "Loose Card"
     "face": {
       "front": {
         "name": "Loose Card FOM 8",
@@ -145,6 +149,7 @@
   },
   "fom-9": {
     "id": "fom-9",
+    "evolutionName": "Deck Box"
     "face": {
       "front": {
         "name": "Deck Box FOM 9",
@@ -163,6 +168,7 @@
   },
   "fom-10": {
     "id": "fom-10",
+    "evolutionName": "Master Set"
     "face": {
       "front": {
         "name": "Master Set FOM 10",
@@ -199,6 +205,7 @@
   },
   "fom-12": {
     "id": "fom-12",
+    "evolutionName": "Puppy"
     "face": {
       "front": {
         "name": "Puppy FOM 12",
