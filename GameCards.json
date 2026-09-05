@@ -4,14 +4,14 @@
     "face": {
       "front": {
         "name": "Puppy FOM 1",
-        "type": "Pokemon",
+        "type": "Pokemon - Basic",
         "cost": 0,
         "image": "https://i.imgur.com/t3Vs3uy.jpeg",
         "isHorizontal": false
       }
     },
     "name": "Puppy FOM 1",
-    "type": "Pokemon",
+    "type": "Pokemon - Basic",
     "cost": 0,
     "rarity": "Common",
     "Retreat cost": 1,
