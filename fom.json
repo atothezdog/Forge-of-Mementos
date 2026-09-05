@@ -598,6 +598,39 @@
     "images": {
       "small": "https://i.imgur.com/AxNQxXt.png",
       "large": "https://i.imgur.com/VUg8LWD.jpeg"
+    },
+"fom-14": {
+  "id": "fom-14",
+  "face": {
+    "front": {
+      "name": "Basic Lightning Energy FOM 14",
+      "type": "Energy",
+      "cost": 0,
+      "image": "https://images.pokemontcg.io/sv1/257_hires.png",
+      "isHorizontal": false
     }
+  },
+  "name": "Basic Lightning Energy FOM 14",
+  "type": "Energy",
+  "cost": 0,
+  "rarity": "Common",
+  "hp": 0
+  },
+"fom-14": {
+  "id": "fom-14",
+  "face": {
+    "front": {
+      "name": "Basic Colorless Energy FOM 15",
+      "type": "Energy",
+      "cost": 0,
+      "image": "https://i.imgur.com/fpdOTHW.png",
+      "isHorizontal": false
+    }
+  },
+  "name": "Basic Colorless Energy FOM 15",
+  "type": "Energy",
+  "cost": 0,
+  "rarity": "Common",
+  "hp": 0
   }
 ]
