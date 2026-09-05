@@ -600,21 +600,40 @@
       "large": "https://i.imgur.com/VUg8LWD.jpeg"
     },
     {
-  "id": "fom-14",
-  "name": "Colorless Energy",
-  "supertype": "Energy",
-  "subtypes": [
-    "Basic"
-  ],
-  "number": "15",
-  "rarity": "Common",
-  "legalities": {
-    "unlimited": "Legal",
-    "standard": "Legal",
-    "expanded": "Legal"
-  },
-  "images": {
-    "small": "https://i.imgur.com/fpdOTHW.png",
-    "large": "https://i.imgur.com/fpdOTHW.png"
-  }
+    "id": "fom-14",
+    "name": "Lightning Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "14",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://i.imgur.com/N6AxgCb.png",
+      "large": "https://i.imgur.com/N6AxgCb.png"
+    },
+    {
+    "id": "fom-15",
+    "name": "Colorless Energy",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "15",
+    "rarity": "Common",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://i.imgur.com/fpdOTHW.png",
+      "large": "https://i.imgur.com/fpdOTHW.png"
+    }
+  } 
 ]
