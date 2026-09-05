@@ -219,17 +219,53 @@
     "id": "fom-13",
     "face": {
       "front": {
-        "name": "Cypress Lawn Memorial 13",
+        "name": "Cypress Lawn Memorial FOM 13",
         "type": "Stadium",
         "cost": 0,
         "image": "https://i.imgur.com/VUg8LWD.jpeg",
         "isHorizontal": false
       }
     },
-    "name": "Cypress Lawn Memorial 13",
+    "name": "Cypress Lawn Memorial FOM 13",
     "type": "Stadium",
     "cost": 0,
     "rarity": "Illustration Rare",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-14": {
+    "id": "fom-14",
+    "face": {
+      "front": {
+        "name": "Basic Lightning Energy FOM 14",
+        "type": "Energy",
+        "cost": 0,
+        "image": "https://i.imgur.com/N6AxgCb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Basic Lightning Energy FOM 14",
+    "type": "Energy",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-15": {
+    "id": "fom-15",
+    "face": {
+      "front": {
+        "name": "Basic Colorless Energy FOM 15",
+        "type": "Energy",
+        "cost": 0,
+        "image": "https://i.imgur.com/N6AxgCb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Basic Colorless Energy FOM 15",
+    "type": "Energy",
+    "cost": 0,
+    "rarity": "Common",
     "Retreat cost": 0,
     "hp": 0
   }
