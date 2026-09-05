@@ -1,0 +1,236 @@
+{
+  "fom-1": {
+    "id": "fom-1",
+    "face": {
+      "front": {
+        "name": "Puppy FOM 1",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/t3Vs3uy.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Puppy FOM 1",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 80
+  },
+  "fom-2": {
+    "id": "fom-2",
+    "face": {
+      "front": {
+        "name": "Toby FOM 2",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/B5pPQeM.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toby FOM 2",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "fom-3": {
+    "id": "fom-3",
+    "face": {
+      "front": {
+        "name": "Tobinator FOM 3",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/klULjUq.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tobinator FOM 3",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 3,
+    "hp": 180
+  },
+  "fom-4": {
+    "id": "fom-4",
+    "face": {
+      "front": {
+        "name": "Surprised Pikachu FOM 4",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/YtSLRGm.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surprised Pikachu FOM 4",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "fom-5": {
+    "id": "fom-5",
+    "face": {
+      "front": {
+        "name": "Google Pixel Watch FOM 5",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/zIfdD73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Google Pixel Watch FOM 5",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-6": {
+    "id": "fom-6",
+    "face": {
+      "front": {
+        "name": "Vending Machine FOM 6",
+        "type": "Trainer",
+        "cost": 0,
+        "image": "https://i.imgur.com/ucy0coT.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vending Machine FOM 6",
+    "type": "Trainer",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-7": {
+    "id": "fom-7",
+    "face": {
+      "front": {
+        "name": "DoorDash FOM 7",
+        "type": "Trainer",
+        "cost": 0,
+        "image": "https://i.imgur.com/JszzOGo.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "DoorDash FOM 7",
+    "type": "Trainer",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-8": {
+    "id": "fom-8",
+    "face": {
+      "front": {
+        "name": "Loose Card FOM 8",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/FeSpyJh.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loose Card FOM 8",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 50
+  },
+  "fom-9": {
+    "id": "fom-9",
+    "face": {
+      "front": {
+        "name": "Deck Box FOM 9",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/JHBiA11.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deck Box FOM 9",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "fom-10": {
+    "id": "fom-10",
+    "face": {
+      "front": {
+        "name": "Master Set FOM 10",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/sM4I5Zo.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Set Fom 10",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 3,
+    "hp": 170
+  },
+  "fom-11": {
+    "id": "fom-11",
+    "face": {
+      "front": {
+        "name": "Cypress Lawn Memorial FOM 11",
+        "type": "Stadium",
+        "cost": 0,
+        "image": "https://i.imgur.com/ovfrcOo.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cypress Lawn Memorial FOM 11",
+    "type": "Stadium",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+  "fom-12": {
+    "id": "fom-12",
+    "face": {
+      "front": {
+        "name": "Puppy FOM 12",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://i.imgur.com/h8QnxN9.jpeg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Puppy FOM 12",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Shiny Rare",
+    "Retreat cost": 1,
+    "hp": 80
+  },
+  "fom-13": {
+    "id": "fom-13",
+    "face": {
+      "front": {
+        "name": "Cypress Lawn Memorial 13",
+        "type": "Stadium",
+        "cost": 0,
+        "image": "https://images.pokemontcg.io/base1/13_hires.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cypress Lawn Memorial 13",
+    "type": "Stadium",
+    "cost": 0,
+    "rarity": "Rare Holo",
+    "Retreat cost": 0,
+    "hp": 0
+  },
+}
