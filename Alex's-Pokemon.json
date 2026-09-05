@@ -194,7 +194,7 @@
           "Trainer - Supporter": "Discard",
           "Trainer - Item": "Discard",
           "Trainer": "Discard",
-          "Pokemon": "Bench",
+          "Pokemon - Basic": "Bench",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
           "Trainer - Pokemon tool": "GROUP"
