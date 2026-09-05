@@ -1,54 +1,97 @@
-{
-  "title": "Basic Starter 15",
-  "id": "baa9add4-7a1f-4a83-a014-ba0e3316e035",
-  "cardCount": 60,
-  "createdAt": "2026-09-05T18:31:04.434Z",
-  "lastModifiedAt": "2026-09-05T19:39:13.333Z",
-  "game": "Alexs Pokemon",
-  "format": [
-    "Classic"
-  ],
-  "deckList": {
-  "categoriesOrder": [
-    "Pokemon",
-    "Trainer - Supporter",
-    "Trainer - Item",
-    "Trainer - Stadium",
-    "Energy"
-  ],
-  "Pokemon": [
-    ...
-  ],
-  "Trainer - Item": [
-    {
-      "count": 3,
-      "id": "fom-5"
+[
+  {
+    "title": "Basic Starter 15",
+    "id": "baa9add4-7a1f-4a83-a014-ba0e3316e035",
+    "cardCount": 60,
+    "createdAt": "2026-09-05T18:31:04.434Z",
+    "lastModifiedAt": "2026-09-05T19:39:13.333Z",
+    "game": "Alexs Pokemon",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Pokemon",
+        "Trainer - Supporter",
+        "Trainer - Item",
+        "Trainer - Stadium",
+        "Energy"
+      ],
+
+      "Pokemon": [
+      {
+        "count": 2,
+        "id": "fom-1"
+      },
+      {
+        "count": 2,
+        "id": "fom-12"
+      },
+      {
+        "count": 4,
+        "id": "fom-2"
+      },
+      {
+        "count": 3,
+        "id": "fom-3"
+      },
+      {
+        "count": 4,
+        "id": "fom-4"
+      },
+      {
+        "count": 4,
+        "id": "fom-8"
+      },
+      {
+        "count": 3,
+        "id": "fom-9"
+      },
+      {
+        "count": 3,
+        "id": "fom-10"
+      }
+    ],
+      
+      "Trainer - Supporter": [
+        {
+          "count": 4,
+          "id": "fom-6"
+        },
+        {
+          "count": 4,
+          "id": "fom-7"
+        }
+      ],
+
+      "Trainer - Item": [
+        {
+          "count": 3,
+          "id": "fom-5"
+        }
+      ],
+
+      "Trainer - Stadium": [
+        {
+          "count": 2,
+          "id": "fom-11"
+        },
+        {
+          "count": 2,
+          "id": "fom-13"
+        }
+      ],
+
+      "Energy": [
+        {
+          "count": 12,
+          "id": "fom-15"
+        },
+        {
+          "count": 8,
+          "id": "fom-14"
+        }
+      ]
     }
-  ],
-  "Trainer - Supporter": [
-    {
-      "count": 4,
-      "id": "fom-6"
-    },
-    {
-      "count": 4,
-      "id": "fom-7"
-    }
-  ],
-  "Trainer - Stadium": [
-    {
-      "count": 2,
-      "id": "fom-11"
-    },
-    {
-      "count": 2,
-      "id": "fom-13"
-    }
-  ],
-  "Energy": [
-    ...
-  ]
-}
-    ]
   }
-}
+]
