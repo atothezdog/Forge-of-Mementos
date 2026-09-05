@@ -2,7 +2,7 @@
   "name": "Alexs Pokemon",
   "scriptsUrls": [
   "https://atothezdog.github.io/Forge-of-Mementos/pokemon.js"
-],
+  },
   "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
   "defaultRessources": {
     "backgrounds": [
