@@ -1,0 +1,12 @@
+{
+  "name": "Test Game",
+  "deckBuilding": {
+    "mainFilters": ["type"],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      }
+    ]
+  }
+}
