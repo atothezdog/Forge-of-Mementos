@@ -1,0 +1,15 @@
+{
+  "name": "Forge Test",
+  "deckBuilding": {
+    "mainFilters": ["type", "cost"],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      }
+    ]
+  },
+  "cards": {
+    "dataUrl": "https://atothezdog.github.io/Forge-of-Mementos/GameCards.json"
+  }
+}
