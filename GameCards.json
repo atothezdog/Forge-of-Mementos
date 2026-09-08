@@ -20,7 +20,7 @@
   },
   "fom-2": {
     "id": "fom-2",
-    "evolutionName": "Toby"
+    "evolutionName": "Toby",
     "evolvesFrom": "Puppy",
     "face": {
       "front": {
