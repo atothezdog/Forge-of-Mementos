@@ -10,6 +10,6 @@
     ]
   },
   "cards": {
-    "dataUrl": "https://atothezdog.github.io/Forge-of-Mementos/GameCards.json"
+    "dataUrl": "https://raw.githubusercontent.com/atothezdog/Forge-of-Mementos/refs/heads/main/TestCards.json"
   }
 }
