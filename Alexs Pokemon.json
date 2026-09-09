@@ -157,9 +157,6 @@
                   "direction": "column",
                   "content": [
                     {
-                      "section": "Evolution"
-                    },
-                    {
                       "section": "Bench",
                       "style": {
                         "marginTop": "0.35rem"
