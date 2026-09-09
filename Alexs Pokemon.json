@@ -292,7 +292,6 @@
             "defaultValue": {
               "options": []
             }
-          },
             "blueprint": {
               "type": "div",
               "children": [
