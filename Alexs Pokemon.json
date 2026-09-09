@@ -145,11 +145,14 @@
                     },
                     {
                       "section": "Active"
+                      "style": {
+                        "width": "15vh"
+                      }
                     },
                     {
                       "section": "Evolution",
                       "style": {
-                        "marginLeft": "1rem"
+                        "width": "15vh"
                       }
                     }
                   ],
