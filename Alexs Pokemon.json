@@ -130,38 +130,44 @@
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "direction": "row",
+              "direction": "column",
               "style": false,
               "content": [
                 {
-                  "section": "Stadium",
-                  "style": {
-                    "width": "15vh"
-                  }
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Stadium",
+                      "style": {
+                        "width": "15vh"
+                      }
+                    },
+                    {
+                      "section": "Active",
+                      "style": {
+                        "marginRight": "20vh",
+                        "marginLeft": "5vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 },
                 {
-                  "section": "Active"
-                },
-                {
-                  "section": "Evolution",
-                  "style": {
-                    "marginLeft": "1rem"
-                  }
+                  "direction": "column",
+                  "content": [
+                    {
+                      "section": "Evolution"
+                    },
+                    {
+                      "section": "Bench",
+                      "style": {
+                        "marginTop": "0.35rem"
+                      }
+                    }
+                  ]
                 }
               ],
-              "isSymetricalForOpponents": true
-            },
-            {
-              "direction": "column",
-              "content": [
-                {
-                  "section": "Bench",
-                  "style": {
-                    "marginTop": "0.35rem"
-                  }
-                }
-              ]
-            }
               "isSymetricalForOpponents": false
             },
             {
