@@ -144,10 +144,12 @@
                       }
                     },
                     {
-                      "section": "Active",
+                      "section": "Active"
+                    },
+                    {
+                      "section": "Evolution",
                       "style": {
-                        "marginRight": "20vh",
-                        "marginLeft": "5vh"
+                        "marginLeft": "1rem"
                       }
                     }
                   ],
@@ -156,9 +158,6 @@
                 {
                   "direction": "column",
                   "content": [
-                    {
-                      "section": "Evolution"
-                    },
                     {
                       "section": "Bench",
                       "style": {
